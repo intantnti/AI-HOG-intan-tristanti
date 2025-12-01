@@ -1,1 +1,1 @@
-# AI-HOG-intan-tristanti
+# HOG-intan-tristanti
